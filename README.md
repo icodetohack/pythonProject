@@ -1,11 +1,12 @@
-# pythonProject
+<h1 align="center">Hi 👋, I'm Jashn</h1>
+<h3 align="center">A passionate coder</h3>
 
-This is a project based on what I learn, hope it helps you.🙂
+- 🔭 I’m currently working on **to imporve my skills**
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+- 🌱 I’m currently learning **Python and Java**
 
-Please make sure to update tests as appropriate.
+- ⚡ Fun fact **This is no fun here 😂**
 
-## License
-Free to Use.
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
